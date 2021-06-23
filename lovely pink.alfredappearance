@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 14,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "Symbol",
+        "color" : "#626F8DFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#480069FF"
+      },
+      "backgroundSelected" : "#942092FF",
+      "text" : {
+        "size" : 23,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#000000E5"
+      },
+      "iconPaddingHorizontal" : 4,
+      "roundness" : 0,
+      "paddingVertical" : 7,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#C20089E4",
+      "paddingHorizontal" : 8,
+      "spacing" : 10,
+      "text" : {
+        "size" : 42,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#000000FF"
+      },
+      "background" : "#F213001A",
+      "roundness" : 0,
+      "paddingVertical" : 5
+    },
+    "window" : {
+      "color" : "#F7BDF3BC",
+      "paddingHorizontal" : 6,
+      "width" : 605,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 15,
+      "roundness" : 17,
+      "paddingVertical" : 8
+    },
+    "credit" : "HomuraCat",
+    "separator" : {
+      "color" : "#CBCBCBEB",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#561A72FF",
+      "thickness" : 0
+    },
+    "name" : "lovely pink"
+  }
+}
